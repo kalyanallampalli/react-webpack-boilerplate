@@ -20,6 +20,7 @@ Prerequisites
 1. Node JS - [Install](https://nodejs.org/en/download/)
 2. [npm documentation](https://docs.npmjs.com/cli/npm)
 
-
-> [Learn React](https://facebook.github.io/react/docs/getting-started.html)
-> [Learn Redux](https://egghead.io/courses/getting-started-with-redux)
+References
+--------
+1. [Learn React](https://facebook.github.io/react/docs/getting-started.html)
+2. [Learn Redux](https://egghead.io/courses/getting-started-with-redux)
