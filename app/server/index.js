@@ -13,7 +13,7 @@ const args = yargs.default('env', 'development').argv
 // initialize node express framework
 const app = express()
 const compiler = webpack(config)
-const port = 3001
+const port = 3000
 
 const middlewareConfig = {
   reload: true,
